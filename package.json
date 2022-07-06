@@ -1,0 +1,26 @@
+{
+  "name": "tongs-team-portfolio-generator",
+  "version": "1.0.0",
+  "description": "Tongs Team Portfolio Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlor0026/Tongs-Team-profile-generator.git"
+  },
+  "author": "Tong Lor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlor0026/Tongs-Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/tlor0026/Tongs-Team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
