@@ -12,6 +12,8 @@
   This application was made for users to be able to add new employees into their systems. You will get a chance to add their team manager first, then after that you'll be able to add additional employees, either interns or engineers.
   ## Installation:
   This app uses both inquirer and jest, please have those installed before using. You'll also need to have some time of comand line application such as git bash or the internal terminal from VS Code in order to run this. 
+  
+  Please be sure to download demo video listed within the git hub repository to show how this app is used.
   ## Usage:
   Once all required apps are installed first, you'll run the code using the command line "node index'
   ## License:
